@@ -1,0 +1,30 @@
+*{
+    text-align:center;
+}
+body {
+    background-color: black;
+    font-family: cursive;
+    justify-content: center;
+  }
+
+  .glow {
+    font-size: 50px;
+    color: #fff;
+    animation: glow 10s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow:  0 0 40px #4d2fc5, 0 0 50px #3196de, 0 0 60px #3041d6, 0 0 70px #441aba;
+    }
+    
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #31c3e74c, 0 0 40px #453cc7, 0 0 50px #22b3d7, 0 0 60px #2735d2, 0 0 70px #243955, 0 0 80px #4137cf;
+    }
+  }
+
+  canvas {
+    border: 3px solid rgb(206, 111, 111);
+
+  }
+ 
