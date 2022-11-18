@@ -17,6 +17,14 @@ The snake and Apple classes are to show us where the snake and bonus is on the g
 
 At this point, you should have something like this:
 
+
+<center>
+  
+![snake game](https://user-images.githubusercontent.com/75574310/202585997-f708356b-ab30-490c-917e-76cf98844933.png)
+
+
+  <center>
+
 <center><h1>Display the snake</h1></center>
 In this section, we will first establish a variable called tileCount which will divide our screen into 20 small squares. Then define the horizontal position of our snake as headX, and initialize it with value 10.
 
