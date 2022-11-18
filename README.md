@@ -1,4 +1,6 @@
 # Snake-Game
+
+# codepen preview : https://codepen.io/YASH-ITACHI/pen/rNKYxMN
 A snake game is a simple game where a snake moves around a box trying to eat an apple. Once it successfully eats the apple, the length of the snake increases and the movement becomes faster.  Then the game is over when the snake runs into itself or any of the four walls of the box.
 We have a div of class scoreDisplay that will display our scores.
 There's a div of class grid that will house the game (this is going to be a 10 by 10 grid)
