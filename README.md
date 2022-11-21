@@ -24,6 +24,7 @@ At this point, you should have something like this:
   
 ![snake game](https://user-images.githubusercontent.com/75574310/202585997-f708356b-ab30-490c-917e-76cf98844933.png)
 
+  <iframe src="https://giphy.com/embed/jdFm2bcWlj4EUVCpc0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tokyo-revengers-tokyorev-rev-jdFm2bcWlj4EUVCpc0">via GIPHY</a></p>
 
   <center>
 
