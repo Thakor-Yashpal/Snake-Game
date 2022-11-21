@@ -1,4 +1,5 @@
 # Snake-Game
+<iframe src="https://giphy.com/embed/jdFm2bcWlj4EUVCpc0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tokyo-revengers-tokyorev-rev-jdFm2bcWlj4EUVCpc0"></p>
 
 # codepen preview : https://codepen.io/YASH-ITACHI/pen/rNKYxMN
 A snake game is a simple game where a snake moves around a box trying to eat an apple. Once it successfully eats the apple, the length of the snake increases and the movement becomes faster.  Then the game is over when the snake runs into itself or any of the four walls of the box.
@@ -24,7 +25,7 @@ At this point, you should have something like this:
   
 ![snake game](https://user-images.githubusercontent.com/75574310/202585997-f708356b-ab30-490c-917e-76cf98844933.png)
 
-  <iframe src="https://giphy.com/embed/jdFm2bcWlj4EUVCpc0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tokyo-revengers-tokyorev-rev-jdFm2bcWlj4EUVCpc0">via GIPHY</a></p>
+  
 
   <center>
 
