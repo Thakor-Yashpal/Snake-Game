@@ -22,9 +22,8 @@ At this point, you should have something like this:
 
 <center>
   
-![snake game](https://user-images.githubusercontent.com/75574310/202585997-f708356b-ab30-490c-917e-76cf98844933.png)
+[snake game](https://user-images.githubusercontent.com/75574310/202585997-f708356b-ab30-490c-917e-76cf98844933.png)
 
-  
 
   <center>
 
